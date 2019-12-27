@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>using js weird</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>OK developer does things that are hard</description>
+    <pubDate>Thu, 26 Dec 2019 17:00:00 -0700</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Manifesto</title>
+      <link>http://localhost:8080/articles/manifesto/</link>
+      <pubDate>Thu, 26 Dec 2019 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/manifesto/</guid>
+      <author>Grant Judkins</author>
+      <description>&lt;p&gt;lorem aklsdnas dklasnd slkadn aslkdnas dlknd aslkdn aslda slkdans dlkasdn alskdna sdlkas nd&lt;/p&gt;
+&lt;p&gt;akjsdaskjdnaskjdnaskld naskdjna sdkjasbd kajsdb askjdb aksjdb askjdb askjdb asjkbd askjdb ask&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
